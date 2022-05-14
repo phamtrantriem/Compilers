@@ -1,0 +1,10 @@
+void add ( int a , float b )
+{
+	int sum = 0 ;
+	while ( sum <= 50000 )
+{
+sum = sum + 10.43 + 34E4 ;
+		if ( sum == 4000 )
+			break ;
+}
+}
